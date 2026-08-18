@@ -39,13 +39,13 @@ Key features of the dashboard:
 > ![Worries, Energy and Policies](screenshots/Worries_Energy_Policies.png)
 > ![Country Profile](screenshots/Country_profile.png)
 
-## 5. Key Findings
+## 4. Key Findings
 
 - Portugal is Europe's most climate-anxious country, while
 Spain leads in renewable energy preference, favouring Sun above all — a reminder that concern and energy preferences don't always move together.
 - Across Europe, climate concern and renewable energy preference tend to move together but with notable exceptions. Portugal leads in climate anxiety, while Spain shows the strongest appetite for renewables. Yet for most nations, worry alone does not automatically translate into greener energy preferences — policy, culture, and economic context all play a role.
 
-## 6. Repository Structure
+## 5. Repository Structure
 
 ```
 ├── data/                       # dataset ESS raw and clean
@@ -54,10 +54,10 @@ Spain leads in renewable energy preference, favouring Sun above all — a remind
 └── README.md
 ```
 
-## 7. Tech Stack
+## 6. Tech Stack
 
 - **Power BI Desktop**: bookmark, drillthrough, DAX measures, page navigator, dynamic text insights
 
-## 8. Author
+## 7. Author
 
 Ismael Pumpo - [LinkedIn](https://www.linkedin.com/in/ismael-pumpo-362297212) — [GitHub](https://github.com/Ismael-PmP) · Boolean Master in Data Analytics, 2026
