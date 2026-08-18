@@ -35,9 +35,9 @@ Key features of the dashboard:
 
 > **Screenshots**
 >
-> `![Overview](screenshots/Overview.png)`
-> `![Worries, Energy and Policies](screenshots/Worries_Energy_Policies.png)`
-> `![Country Profile](screenshots/Country_profile.png)`
+> ![Overview](screenshots/Overview.png)
+> ![Worries, Energy and Policies](screenshots/Worries_Energy_Policies.png)
+> ![Country Profile](screenshots/Country_profile.png)
 
 ## 5. Key Findings
 
