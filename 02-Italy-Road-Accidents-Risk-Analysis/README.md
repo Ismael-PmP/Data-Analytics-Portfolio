@@ -89,4 +89,4 @@ Methodological choices made in the Power BI dashboard:
 
 ## 8. Author
 
-Ismael Pumpo - [LinkedIn](https://www.linkedin.com/in/ismael-pumpo-362297212) — [GitHub](https://github.com/Aaronstriker) · Boolean Master in Data Analytics, 2026
+Ismael Pumpo - [LinkedIn](https://www.linkedin.com/in/ismael-pumpo-362297212) — [GitHub](https://github.com/Ismael-PmP) · Boolean Master in Data Analytics, 2026
